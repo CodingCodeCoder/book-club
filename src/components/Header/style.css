@@ -1,0 +1,14 @@
+header, header h1, header p {
+    background-color: transparent;
+}
+
+header {
+    border-top: solid 2px black;
+    color: white;
+
+
+    background: url("../../Assets/BookClubHeader.jpg") center no-repeat;
+    height:300px;
+
+    background-color: rgb(199, 199, 151);
+}
